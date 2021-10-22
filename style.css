@@ -42,7 +42,7 @@
 	transition: color 0.5s;
 }
 .banner-btn a span{
-	width: 0%;
+	width: 0;
 	height: 100%;
 	position: absolute;
 	top: 0;
@@ -58,7 +58,7 @@
 	color: #000;
 }
 #sideNav{
-	width: 250px;
+	width: 300px;
 	height: 100vh;
 	position: fixed;
 	right: -250px;
